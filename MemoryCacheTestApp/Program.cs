@@ -44,8 +44,8 @@ namespace MemoryCacheTestApp
             {
               while (!cts.IsCancellationRequested)
               {
-                //memoryCache.Set<string>(Guid.NewGuid(), String.Concat(Enumerable.Repeat(Guid.NewGuid().ToString(), 100))); 
-                Thread.Sleep(30);
+                memoryCache.Set<string>(Guid.NewGuid(), String.Concat(Enumerable.Repeat(Guid.NewGuid().ToString(), 100))); 
+                Thread.Sleep(10);
               }
             });
 
