@@ -1,0 +1,17 @@
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Caching.MemoryEx.dll.config
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Caching.MemoryEx.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Caching.MemoryEx.pdb
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\obj\Debug\Microsoft.Extensions.Caching.MemoryEx.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\obj\Debug\Microsoft.Extensions.Caching.MemoryEx.pdb
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Options.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Options.xml
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\obj\Debug\Microsoft.Extensions.Caching.Memory.csprojResolveAssemblyReference.cache
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Caching.AbstractionsEx.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Memory\bin\Debug\Microsoft.Extensions.Caching.AbstractionsEx.pdb

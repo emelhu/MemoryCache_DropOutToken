@@ -1,0 +1,11 @@
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\bin\Release\Microsoft.Extensions.Caching.AbstractionsEx.dll.config
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\bin\Release\Microsoft.Extensions.Caching.AbstractionsEx.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\bin\Release\Microsoft.Extensions.Caching.AbstractionsEx.pdb
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\obj\Release\Microsoft.Extensions.Caching.Abstractions.csprojResolveAssemblyReference.cache
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\obj\Release\Microsoft.Extensions.Caching.AbstractionsEx.dll
+C:\eMeL_CSharp_Dev\GIT\AspNetCore\Caching_eMeL\Microsoft.Extensions.Caching.Abstractions\obj\Release\Microsoft.Extensions.Caching.AbstractionsEx.pdb

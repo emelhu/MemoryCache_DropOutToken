@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.Caching.Memory", "Microsoft.Extensions.Caching.Memory\Microsoft.Extensions.Caching.Memory.csproj", "{FE93AFDD-F038-427E-8502-7F8339B4DDCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryCacheTestApp", "MemoryCacheTestApp\MemoryCacheTestApp.csproj", "{397D417A-6F3D-489B-A15B-97C39C0E5DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.Caching.Abstractions", "Microsoft.Extensions.Caching.Abstractions\Microsoft.Extensions.Caching.Abstractions.csproj", "{0B3C4262-EE99-4047-B22B-A0F02730C758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE93AFDD-F038-427E-8502-7F8339B4DDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE93AFDD-F038-427E-8502-7F8339B4DDCC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FE93AFDD-F038-427E-8502-7F8339B4DDCC}.Debug|x86.Build.0 = Debug|Any CPU
+		{FE93AFDD-F038-427E-8502-7F8339B4DDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE93AFDD-F038-427E-8502-7F8339B4DDCC}.Release|x86.ActiveCfg = Release|Any CPU
+		{397D417A-6F3D-489B-A15B-97C39C0E5DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397D417A-6F3D-489B-A15B-97C39C0E5DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397D417A-6F3D-489B-A15B-97C39C0E5DA3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{397D417A-6F3D-489B-A15B-97C39C0E5DA3}.Debug|x86.Build.0 = Debug|Any CPU
+		{397D417A-6F3D-489B-A15B-97C39C0E5DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397D417A-6F3D-489B-A15B-97C39C0E5DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397D417A-6F3D-489B-A15B-97C39C0E5DA3}.Release|x86.ActiveCfg = Release|Any CPU
+		{397D417A-6F3D-489B-A15B-97C39C0E5DA3}.Release|x86.Build.0 = Release|Any CPU
+		{0B3C4262-EE99-4047-B22B-A0F02730C758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3C4262-EE99-4047-B22B-A0F02730C758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3C4262-EE99-4047-B22B-A0F02730C758}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0B3C4262-EE99-4047-B22B-A0F02730C758}.Debug|x86.Build.0 = Debug|Any CPU
+		{0B3C4262-EE99-4047-B22B-A0F02730C758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3C4262-EE99-4047-B22B-A0F02730C758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3C4262-EE99-4047-B22B-A0F02730C758}.Release|x86.ActiveCfg = Release|Any CPU
+		{0B3C4262-EE99-4047-B22B-A0F02730C758}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
