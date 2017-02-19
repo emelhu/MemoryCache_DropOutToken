@@ -14,3 +14,7 @@ Like CancellationToken at thread, we can attach a token object to cached object.
 This can be common for a group of stored objects too. :)
 
 And when (for example) a user modify the source/origin of cached data, the AspNetCore program set a 'cancel' and when the MemoryCache make a cache-cleaning (or retrieve this cached object) drop this object with this token.
+
+
+This project use: Visual Studio 2015   .Net 4.5.2
+
